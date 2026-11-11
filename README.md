@@ -6,6 +6,7 @@ I am interested in Software Development and Problem Solving.
 I am currently learning C, and Web Development.
 
 🎯 My Goals
+
 Improving my programming skills
 
 Building my first real-world project
