@@ -6,9 +6,12 @@ I am interested in Software Development and Problem Solving.
 I am currently learning C, and Web Development.
 
 🎯 My Goals
-Improving my programming skills,
-Building my first real-world project,
-Learning Data Structures & Algorithms,
+Improving my programming skills
+
+Building my first real-world project
+
+Learning Data Structures & Algorithms
+
 Building an amazing GitHub portfolio.
 <!--
 **26cs163-cmd/26cs163-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
